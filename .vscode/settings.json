@@ -1,5 +1,6 @@
 {
     "workbench.colorTheme": "Default Dark+",
     "editor.formatOnSave": true,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "debug.toolBarLocation": "commandCenter"
 }

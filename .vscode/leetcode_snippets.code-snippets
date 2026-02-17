@@ -1,0 +1,29 @@
+{
+	"Leetcode Test Template": {
+		"prefix": "lc",
+		"body": [
+			"import 'package:test/test.dart';",
+			"",
+			"void main() {",
+			"  final solution = Solution();",
+			"",
+			"  group('${1:description}', () {",
+			"",
+			"    test('first case', () {",
+			"      expect(solution(), equals());",
+			"    });",
+			"",
+			"    test('second case', () {",
+			"      expect(solution(), equals());",
+			"    });",
+			"",
+			"    test('third case', () {",
+			"      expect(solution(), equals());",
+			"    });",
+			"",
+			"  });",
+			"}"
+		],
+		"description": "Template for Leetcode test cases with Solution class"
+	}
+}
