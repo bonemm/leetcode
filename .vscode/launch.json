@@ -8,7 +8,7 @@
             "name": "dart_leet",
             "request": "launch",
             "type": "dart",
-            "program": "${workspaceFolder}/lib/problems/904.fruit_into_baskets.dart"
+            "program": "${workspaceFolder}/lib/problems/707.design_linked_list.dart"
         }
     ]
 }
